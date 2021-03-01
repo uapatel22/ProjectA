@@ -3,9 +3,13 @@ Project Automation
 
 Prerequisites:
 -Install latest JDK and Apache Maven 
+
 -Set the environment variables as below
+
  Name: JAVA_HOME Value: location of JDK folder
+ 
  Name: Path Value: %JAVA_HOME%\bin
+ 
  Name: Path Value: location of Apache Maven bin folder (include the bin)
 
 
