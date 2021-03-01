@@ -17,4 +17,4 @@ The Command Prompt should look like this:
 ![cmd](https://user-images.githubusercontent.com/38597026/109442469-59ce0b00-7a06-11eb-9b91-36edede29de5.PNG)
 
 The report should look like this: 
-![report](https://user-images.githubusercontent.com/38597026/109442429-3b680f80-7a06-11eb-94c9-96ff6795ec69.PNG)
+![report](https://user-images.githubusercontent.com/38597026/109442429-3b680f80-7a06-11eb-94c9-96ff6795ec69.PNG) 
