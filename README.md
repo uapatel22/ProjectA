@@ -2,6 +2,7 @@
 Project Automation
 
 Prerequisites:
+
 -Install latest JDK and Apache Maven 
 
 -Set the environment variables as below
