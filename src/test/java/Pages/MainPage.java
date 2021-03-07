@@ -75,7 +75,7 @@ public class MainPage extends BasePage implements En {
     @FindBy(xpath = "//div[@class='game-info']//li")
     WebElement firstWeighingResults;
 
-    @FindBy(xpath = "//div[@class='game-info']//li[2]")
+    @FindBy(xpath = "//div[@class='game-info']//following-sibling::li")
     WebElement secondWeighingResults;
 
     public void navigateToWebsite(){
