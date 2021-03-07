@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
         showTestOutput = true,
         reportTargetDir = "target",
         cucumberOptions = @CucumberOptions(
-                features = "src/test/resource/GoldBar.feature",
+                features = "src/test/resource/GoldBars.feature",
                 glue = "stepdefs",
                 plugin = {
                         "pretty",
